@@ -50,13 +50,14 @@ A Python-based graphical application that performs **parallel image processing**
 
 Processed_Images/
 │
-├── Grayscale/               # All images converted to grayscale
-├── Blur/                    # All images with Gaussian blur applied
-├── Edge Detection/          # All images with Canny edge detection
-├── Histogram Equalization/  # All images with histogram equalization
-├── Median Filter/           # All images processed with median filter
-├── Bilateral Filter/        # All images processed with bilateral filter
-└── Median Blur/             # All images processed with median blur
+-├── Grayscale/               # All images converted to grayscale
+-├── Blur/                    # All images with Gaussian blur applied
+-├── Edge Detection/          # All images with Canny edge detection
+-├── Histogram Equalization/  # All images with histogram equalization
+-├── Median Filter/           # All images processed with median filter
+-├── Bilateral Filter/        # All images processed with bilateral filter
+-└── Median Blur/             # All images processed with median blur
+
 
 
 
