@@ -48,3 +48,13 @@ A Python-based graphical application that performs **parallel image processing**
 
 ## 📂 Output Structure
 
+Processed_Images/
+│
+├── Grayscale/
+├── Blur/
+├── Edge Detection/
+├── Histogram Equalization/
+├── Median Filter/
+├── Bilateral Filter/
+└── Median Blur/
+
