@@ -1,0 +1,6 @@
+torch
+torchvision
+customtkinter
+opencv-python
+numpy
+Pillow
