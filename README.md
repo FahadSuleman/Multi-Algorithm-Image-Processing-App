@@ -50,30 +50,13 @@ A Python-based graphical application that performs **parallel image processing**
 
 Processed_Images/
 │
-├── Grayscale/               # All images converted to grayscale
-├── Blur/                    # All images with Gaussian blur applied
-├── Edge Detection/          # All images with Canny edge detection
-├── Histogram Equalization/  # All images with histogram equalization
-├── Median Filter/           # All images processed with median filter
-├── Bilateral Filter/        # All images processed with bilateral filter
-└── Median Blur/             # All images processed with median blur
+├── Grayscale/
+├── Blur/
+├── Edge Detection/
+├── Histogram Equalization/
+├── Median Filter/
+├── Bilateral Filter/
+└── Median Blur/
 
-- Modern dark-themed GUI using **CustomTkinter**
-- Parallel image processing with `ThreadPoolExecutor`
-- Automatic GPU (CUDA) detection using PyTorch
-- Multiple image processing algorithms:
-  - Grayscale
-  - Gaussian Blur
-  - Edge Detection (Canny)
-  - Histogram Equalization
-  - Median Filter
-  - Bilateral Filter
-  - Median Blur
-- Progress bar with real-time status updates
 
 ---
-
-
-
-
-
